@@ -33,6 +33,5 @@ Detailed explanations and usage instructions are available inside each project f
 
 ---
 
-## Author
 
-Teja Sanjusha
+
